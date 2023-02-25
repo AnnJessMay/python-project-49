@@ -9,5 +9,4 @@ def main():
     
 if __name__ == '__main__':
     greet()
-
-welcome_user()
+    welcome_user()
