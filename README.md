@@ -3,19 +3,4 @@
 
 Asciinema record of brain-even game
 
-<html>
-<head>
-  <link rel="stylesheet" type="text/css" href="asciinema-player.css" />
-</head>
-<body>
-  <div id="player"></div>
-  <script src="asciinema-player.min.js"></script>
-  <script>
-    AsciinemaPlayer.create(
-      '570074.cast',
-      document.getElementById('player'),
-      { cols: 120, rows: 30 }
-    );
-  </script>
-</body>
-</html>
+asciinema play 570074.cast
