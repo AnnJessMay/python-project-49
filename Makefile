@@ -15,3 +15,7 @@ package-install:
 
 lint:
 	poetry run flake8 hexlet_python_package
+
+brain-even:
+	poetry run python -m brain_games.scripts.brain_even
+
