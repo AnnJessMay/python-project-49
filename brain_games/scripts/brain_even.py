@@ -23,5 +23,4 @@ def main():
         elif user_answer == 'no' and random_number % 2 == 0:
             print(f"'no' is wrong answer ;(. Correct answer was 'yes'.\nLet's try again, {user_name}!")
             return
-
-main()
+    print("Congratulations, {user_name}!")
