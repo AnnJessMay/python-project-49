@@ -3,4 +3,4 @@
 
 Asciinema record of brain-even game
 
-asciinema play 570074.cast
+<a href="https://asciinema.org/a/13zkaHvJ0PT8HgQ0Wu86wG5Pw" target="_blank"><img src="https://asciinema.org/a/13zkaHvJ0PT8HgQ0Wu86wG5Pw.svg" /></a>
