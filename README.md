@@ -4,3 +4,7 @@
 Asciinema record of brain-even game
 
 <a href="https://asciinema.org/a/13zkaHvJ0PT8HgQ0Wu86wG5Pw" target="_blank"><img src="https://asciinema.org/a/13zkaHvJ0PT8HgQ0Wu86wG5Pw.svg" /></a>
+
+Asciinema record of brain-calc game
+
+<a href="https://asciinema.org/a/JGVfLfUq1eu0AayyHLaZPCQ7U" target="_blank"><img src="https://asciinema.org/a/JGVfLfUq1eu0AayyHLaZPCQ7U.svg" /></a>
