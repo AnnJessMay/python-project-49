@@ -8,3 +8,7 @@ Asciinema record of brain-even game
 Asciinema record of brain-calc game
 
 <a href="https://asciinema.org/a/JGVfLfUq1eu0AayyHLaZPCQ7U" target="_blank"><img src="https://asciinema.org/a/JGVfLfUq1eu0AayyHLaZPCQ7U.svg" /></a>
+
+Asciinema record of brain-gcd game
+
+<a href="https://asciinema.org/a/rC4MDcn3JOIpjVNfm4v8R2yXn" target="_blank"><img src="https://asciinema.org/a/rC4MDcn3JOIpjVNfm4v8R2yXn.svg" /></a>
