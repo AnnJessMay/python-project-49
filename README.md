@@ -12,3 +12,7 @@ Asciinema record of brain-calc game
 Asciinema record of brain-gcd game
 
 <a href="https://asciinema.org/a/rC4MDcn3JOIpjVNfm4v8R2yXn" target="_blank"><img src="https://asciinema.org/a/rC4MDcn3JOIpjVNfm4v8R2yXn.svg" /></a>
+
+Asciinema record of brain-progression game
+
+<a href="https://asciinema.org/a/ED4O7FeINAreSkZcBG7rpvN7o" target="_blank"><img src="https://asciinema.org/a/ED4O7FeINAreSkZcBG7rpvN7o.svg" /></a>
