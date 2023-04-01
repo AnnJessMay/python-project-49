@@ -2,17 +2,14 @@
 [![Actions Status](https://github.com/AnnJessMay/python-project-49/workflows/hexlet-check/badge.svg)](https://github.com/AnnJessMay/python-project-49/actions)
 [![Maintainability](https://api.codeclimate.com/v1/badges/6cfd2e5c20cb50be243e/maintainability)](https://codeclimate.com/github/AnnJessMay/python-project-49/maintainability)
 
-Installation:
+### Installation:
+`git clone https://github.com/88ArtemSmirnov88/python-project-49.git`
+#### Setup:
+* make install
+#### Check lint:
 
-git clone https://github.com/AnnJessMay/python-project-49.git
+* make lint
 
-Setup:
-
-make install
-
-Check lint:
-
-make lint
 
 Game 1: Is That Even?
 
