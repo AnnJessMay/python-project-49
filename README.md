@@ -1,5 +1,6 @@
 ### Hexlet tests and linter status:
 [![Actions Status](https://github.com/AnnJessMay/python-project-49/workflows/hexlet-check/badge.svg)](https://github.com/AnnJessMay/python-project-49/actions)
+<a href="https://codeclimate.com/github/AnnJessMay/python-project-49/maintainability"><img src="https://api.codeclimate.com/v1/badges/d8c96b7785fe03c09fe5/maintainability" /></a>
 
 Asciinema record of brain-even game
 
