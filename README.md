@@ -16,3 +16,7 @@ Asciinema record of brain-gcd game
 Asciinema record of brain-progression game
 
 <a href="https://asciinema.org/a/ED4O7FeINAreSkZcBG7rpvN7o" target="_blank"><img src="https://asciinema.org/a/ED4O7FeINAreSkZcBG7rpvN7o.svg" /></a>
+
+Asciinema record of brain-prime game
+
+<a href="https://asciinema.org/a/daGMdyzF23UhEYUx8vPp1leLe" target="_blank"><img src="https://asciinema.org/a/daGMdyzF23UhEYUx8vPp1leLe.svg" /></a>
