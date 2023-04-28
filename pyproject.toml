@@ -1,8 +1,8 @@
 [tool.poetry]
 name = "hexlet-code"
 version = "0.1.0"
-description = ""
-authors = ["Your Name <you@example.com>"]
+description = "Проект:Игры разума"
+authors = ["AnnJessMay"]
 packages = [{include = "brain_games"}]
 
 [tool.poetry.scripts]
@@ -16,8 +16,6 @@ brain-prime = "brain_games.scripts.brain_prime:main"
 [tool.poetry.dependencies]
 python = "^3.10"
 prompt = "^0.4.1"
-
-[tool.poetry.dev-dependencies]
 
 [tool.poetry.group.dev.dependencies]
 flake8 = "^6.0.0"
