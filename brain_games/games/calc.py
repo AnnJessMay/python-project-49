@@ -1,7 +1,7 @@
 from random import choice, randint
 
 
-DESCRIPTION_GAME = 'What is the result of the expression?'
+DESCRIPTION = 'What is the result of the expression?'
 
 
 def calculate(num_1, num_2, sign):

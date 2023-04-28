@@ -1,7 +1,7 @@
 from random import randint
 
 
-DESCRIPTION_GAME = 'What number is missing in the progression?'
+DESCRIPTION = 'What number is missing in the progression?'
 
 
 def get_progression(start, step, length_of_prog):
