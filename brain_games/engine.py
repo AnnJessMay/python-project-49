@@ -11,13 +11,13 @@ def run_game(game):
     while counter < number_of_attempts:
         question, correct = game.generated_question_and_answer()
         print(f'Question: {question}')
-        get = input("Your answer: ")
-        if correct == get:
+        prompt_answer = input("Your answer: ")
+        if correct == prompt_answer:
             counter += 1
             print('Correct!')
         else:
             print(
-                f'''"{get}" is wrong answer ;(. Correct answer was "{correct}".
+                f'''"{prompt_answer}" is wrong answer ;(. Correct answer was "{correct}".
 Let's try again, {name}!''')
             return
     print(f'Congratulations, {name}!')
