@@ -2,16 +2,20 @@
 [![Actions Status](https://github.com/AnnJessMay/python-project-49/workflows/hexlet-check/badge.svg)](https://github.com/AnnJessMay/python-project-49/actions)
 <a href="https://codeclimate.com/github/AnnJessMay/python-project-49/maintainability"><img src="https://api.codeclimate.com/v1/badges/d8c96b7785fe03c09fe5/maintainability" /></a>
 
-Описание проекта
+Описание проекта:
+
 Этот проект представляет собой небольшой развлекательный пакет из 5 консольных математических игр. Вы должны дать 3 правильных ответа на каждый тест, неправильный ответ прекращает игру.
 
-Минимальные требования
+Минимальные требования:
+
 python3.9
 
 Чтобы установить пакет необходимо выполнить:
+
 pip install --user git+github.com:AnnJessMay/python-project-49.git
 
-Демо скрипты
+Демо скрипты:
+
 brain_even - игра на проверку четности
 
 <a href="https://asciinema.org/a/13zkaHvJ0PT8HgQ0Wu86wG5Pw" target="_blank"><img src="https://asciinema.org/a/13zkaHvJ0PT8HgQ0Wu86wG5Pw.svg" /></a>
