@@ -7,7 +7,8 @@ def run_game(game):
     print(f'Hello, {name}!')
     print(game.DESCRIPTION_GAME)
     counter = 0
-    while counter < 3:
+    number_of_attempts = 3
+    while counter < number_of_attempts:
         generated_question, correct = game.print_question()
         print(f'Question: {generated_question}')
         get = input("Your answer: ")
