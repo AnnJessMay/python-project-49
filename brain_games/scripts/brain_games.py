@@ -5,6 +5,8 @@ from brain_games.cli import welcome_user
 def greet():
     print('Welcome to the Brain Games!')
 
+    welcome_user()
+
 
 def main():
     greet()
@@ -12,6 +14,3 @@ def main():
 
 if __name__ == '__main__':
     greet()
-
-
-welcome_user()
