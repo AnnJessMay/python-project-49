@@ -14,7 +14,7 @@ def calculate(num_1, num_2, sign):
             return num_1 * num_2
 
 
-def print_question():
+def generated_question_and_answer():
     sign = choice(['+', '-', '*'])
     num1 = randint(0, 50)
     num2 = randint(0, 50)

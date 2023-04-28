@@ -9,8 +9,8 @@ def run_game(game):
     counter = 0
     number_of_attempts = 3
     while counter < number_of_attempts:
-        generated_question, correct = game.print_question()
-        print(f'Question: {generated_question}')
+        question, correct = game.generated_question_and_answer()
+        print(f'Question: {question}')
         get = input("Your answer: ")
         if correct == get:
             counter += 1
