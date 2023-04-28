@@ -11,5 +11,7 @@ def main():
 
 
 if __name__ == '__main__':
-    welcome_user()
     greet()
+
+
+welcome_user()
