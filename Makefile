@@ -14,7 +14,7 @@ package-install:
 	python3 -m pip install --user dist/*.whl
 
 lint:
-	poetry run flake8 hexlet_python_package
+	poetry run flake8 brain_games
 
 brain-even:
 	poetry run python -m brain_games.scripts.brain_even
