@@ -1,7 +1,7 @@
 from random import randint
 
 
-START_GAME = 'Find the greatest common divisor of given numbers.'
+DESCRIPTION_GAME = 'Find the greatest common divisor of given numbers.'
 
 
 def get_gcd(num1, num2):
