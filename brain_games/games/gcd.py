@@ -12,7 +12,7 @@ def get_gcd(num1, num2):
         divisor -= 1
 
 
-def generated_question_and_answer():
+def generate_question_and_answer():
     num1 = randint(1, 50)
     num2 = randint(1, 50)
     question = f'{num1} {num2}'

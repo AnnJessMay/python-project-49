@@ -10,7 +10,7 @@ def get_progression(start, step, length_of_prog):
     return progression
 
 
-def generated_question_and_answer():
+def generate_question_and_answer():
     length_of_prog = 10
     miss_number_index = randint(1, length_of_prog - 1)
     step = randint(1, 10)
