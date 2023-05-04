@@ -1,9 +1,11 @@
 [tool.poetry]
 name = "hexlet-code"
 version = "0.1.0"
-description = "Проект:Игры разума"
-authors = ["AnnJessMay"]
+description = "Project Brain Games"
+authors = ["AnnJessMay yesjessmay@mail.ru"]
 packages = [{include = "brain_games"}]
+repository = https://github.com/AnnJessMay/python-project-49
+classifiers = ["Programming Language :: Python :: ^3.10"]
 
 [tool.poetry.scripts]
 brain-games = "brain_games.scripts.brain_games:main"
