@@ -16,6 +16,6 @@ def generate_question_and_answer():
     step = randint(1, 10)
     start = randint(0, 10)
     progression = get_progression(start, step, length_of_prog)
-    answer = progression.pop(progression[miss_number_index] = '..')
+    answer = progression.pop(progression[miss_number_index] == '..')
     question = " ".join([str(i) for i in progression])
     return question, str(answer)
