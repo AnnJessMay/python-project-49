@@ -2,7 +2,7 @@
 name = "hexlet-code"
 version = "0.1.0"
 description = "Project Brain Games"
-authors = ["AnnJessMay yesjessmay@mail.ru"]
+authors = ["AnnJessMay <yesjessmay@mail.ru>"]
 packages = [{include = "brain_games"}]
 repository = "https://github.com/AnnJessMay/python-project-49"
 classifiers = ["Programming Language :: Python :: ^3.10"]
