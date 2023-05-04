@@ -1,5 +1,6 @@
 import prompt
 
+number_of_rounds = 3
 
 def run_game(game):
     print('Welcome to the Brain Games!')
@@ -7,17 +8,16 @@ def run_game(game):
     print(f'Hello, {name}!')
     print(game.DESCRIPTION)
     counter = 0
-    number_of_attempts = 3
-    while counter < number_of_attempts:
-        question, correct = game.generated_question_and_answer()
+    while counter < number_of_rounds:
+        question, correct_answer = game.generate_question_and_answer()
         print(f'Question: {question}')
-        prompt_answer = input("Your answer: ")
-        if correct == prompt_answer:
+        prompt_answer = prompt.string("Your answer: ")
+        if correct_answer == prompt_answer:
             counter += 1
             print('Correct!')
         else:
-            print(f'''"{prompt_answer}" is wrong answer ;(.
-Correct answer was "{correct}".
-Let's try again, {name}!''')
+            print(f'"{prompt_answer}" is wrong answer ;(.'
+    f'Correct answer was "{correct_answer}".'
+    f"Let's try again, {name}!")
             return
     print(f'Congratulations, {name}!')
